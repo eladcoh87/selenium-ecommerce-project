@@ -25,6 +25,7 @@ public class TestBucklesLogin extends MyMain {
 	static WebDriver driver;
 	static WebDriverWait wait;
 	
+	
 	static String firstName = "dav3434";
 	static String email = "dfd3434529999123@gmail.com";
 	static String password = "B53@lofvA4V343";
