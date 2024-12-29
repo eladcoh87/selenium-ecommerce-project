@@ -39,7 +39,7 @@ public class TestBucklesAtc extends MyMain {
 	
 	
 	
-	
+	@Test(priority = 1)
 	public static void testCaseAtc() throws InterruptedException {
 		
 		driver.get("https://www.buckle.com/");
