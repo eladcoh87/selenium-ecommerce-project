@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pkg1.TestBucklesAtc">
+      <class name="pkg1.TestBucklesWishList">
         <methods>
-          <include name="endTest"/>
           <include name="testCaseAtc"/>
           <include name="initMyTest"/>
+          <include name="endTest"/>
         </methods>
-      </class> <!-- pkg1.TestBucklesAtc -->
+      </class> <!-- pkg1.TestBucklesWishList -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

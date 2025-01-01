@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-29T17:23:10 IST" name="Default suite" finished-at="2024-12-29T17:23:26 IST" duration-ms="16026">
+  <suite started-at="2025-01-01T09:42:07 IST" name="Default suite" finished-at="2025-01-01T09:42:35 IST" duration-ms="28275">
     <groups>
     </groups>
-    <test started-at="2024-12-29T17:23:10 IST" name="Default test" finished-at="2024-12-29T17:23:26 IST" duration-ms="16026">
-      <class name="pkg1.TestBucklesAtc">
-        <test-method is-config="true" signature="initMyTest()[pri:0, instance:pkg1.TestBucklesAtc@34123d65]" started-at="2024-12-29T17:23:10 IST" name="initMyTest" finished-at="2024-12-29T17:23:12 IST" duration-ms="2142" status="PASS">
+    <test started-at="2025-01-01T09:42:07 IST" name="Default test" finished-at="2025-01-01T09:42:35 IST" duration-ms="28275">
+      <class name="pkg1.TestBucklesWishList">
+        <test-method is-config="true" signature="initMyTest()[pri:0, instance:pkg1.TestBucklesWishList@4802796d]" started-at="2025-01-01T09:42:07 IST" name="initMyTest" finished-at="2025-01-01T09:42:09 IST" duration-ms="1486" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initMyTest -->
-        <test-method signature="testCaseBadAtc()[pri:2, instance:pkg1.TestBucklesAtc@34123d65]" started-at="2024-12-29T17:23:12 IST" name="testCaseBadAtc" finished-at="2024-12-29T17:23:21 IST" duration-ms="8618" status="PASS">
+        <test-method signature="testCaseAtc()[pri:1, instance:pkg1.TestBucklesWishList@4802796d]" started-at="2025-01-01T09:42:09 IST" name="testCaseAtc" finished-at="2025-01-01T09:42:30 IST" duration-ms="21601" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testCaseBadAtc -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:pkg1.TestBucklesAtc@34123d65]" started-at="2024-12-29T17:23:21 IST" name="endTest" finished-at="2024-12-29T17:23:26 IST" duration-ms="5246" status="PASS">
+        </test-method> <!-- testCaseAtc -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:pkg1.TestBucklesWishList@4802796d]" started-at="2025-01-01T09:42:30 IST" name="endTest" finished-at="2025-01-01T09:42:35 IST" duration-ms="5165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-      </class> <!-- pkg1.TestBucklesAtc -->
+      </class> <!-- pkg1.TestBucklesWishList -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
